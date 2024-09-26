@@ -1,5 +1,3 @@
-let collegeName="Vaagdevi Engg college";//String literal
-console.log(collegeName);
-
-let cName=new String("Vaagdevi Engg college")//String with new keyword
-console.log(cName);ct
+let a=20,b=10;
+console.log(a-b);
+console.log(a+b);
