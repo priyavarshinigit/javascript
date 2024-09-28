@@ -1,4 +1,10 @@
-function Add(a,b){
-    return a+b;
+function testFunction(a, b) {
+    return a + b;
 }
-module.exports=Add;
+function testFunction1(x,y){
+    return x+y;
+}
+
+module.exports = {
+    testFunction, testFunction1
+}
